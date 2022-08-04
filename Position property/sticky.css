@@ -1,0 +1,13 @@
+.sticky {
+    background-color: cyan;
+    position: -webkit-sticky;
+    position: sticky; 
+    top: 0;
+    padding: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+p {
+    line-height: 200%;
+}

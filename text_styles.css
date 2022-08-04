@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-weight: normal;
+    text-decoration: #ff0000 underline;
+    /*Can get rid of lines under links by setting text decration to none*/
+    letter-spacing: 10px;
+    font-size: 60px;
+    font-family: Futura, Verdana;
+}
+
+a{
+    text-decoration: none;
+    /*Can get rid of lines under links by setting text decration to none*/
+
+}
+p {
+    line-height: 2;
+}
+
+
+
